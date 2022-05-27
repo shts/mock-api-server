@@ -1,3 +1,5 @@
+/// API サーバー
+
 //expressモジュールの読み込み
 const express = require('express')
 //expressのインスタンス化

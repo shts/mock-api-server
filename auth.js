@@ -1,3 +1,5 @@
+/// トークンを返すサーバー
+
 //expressモジュールの読み込み
 const express = require('express')
 //expressのインスタンス化
