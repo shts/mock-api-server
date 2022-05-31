@@ -11,4 +11,6 @@ git clone したら `yarn` でライブラリ群を取得。
 
 mongodb 使ってるのでインストール&起動を忘れず。
 
+実機で確認する場合は ngrok で
 
+`./ngrok start api token`
